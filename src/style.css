@@ -1,0 +1,48 @@
+button {
+  color: aliceblue;
+  background-color: green;
+  border: none;
+  padding: 4px;
+}
+h2 {
+  text-align: right;
+  font-size: 50px;
+  font-weight: 600;
+  margin-right: 30px;
+}
+h3 {
+  text-align: right;
+  font-size: 20px;
+  font-weight: 600;
+  margin-right: 30px;
+  text-transform: capitalize;
+}
+.container {
+  font-family: "Raleway", sans-serif;
+}
+.city {
+  font-weight: 600;
+  font-size: 80px;
+}
+.col-12 {
+  text-align: right;
+  display: inline-block;
+}
+.city-temp {
+  border: none;
+}
+
+.temp-value {
+  margin-right: 10px;
+  display: inline-block;
+}
+.max-min {
+  text-align: right;
+  margin-right: 14px;
+  font-size: small;
+  font-weight: 700;
+}
+.codedBy {
+  text-align: left;
+  font-size: 13px;
+}
