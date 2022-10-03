@@ -36,13 +36,22 @@ h3 {
   margin-right: 10px;
   display: inline-block;
 }
-.max-min {
+.min-max {
   text-align: right;
-  margin-right: 14px;
+  margin-right: 42px;
   font-size: small;
   font-weight: 700;
+}
+.min-max-temp {
+  text-align: right;
+  margin-right: 14px;
+  font-size: 28px;
+  font-weight: 300;
 }
 .codedBy {
   text-align: left;
   font-size: 13px;
+}
+.form-check {
+  display: inline-block;
 }
